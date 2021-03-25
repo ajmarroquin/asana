@@ -10,8 +10,13 @@ import (
 	"sort"
 	"strconv"
 
+<<<<<<< HEAD
 	"https://github.com/ajmarroquin/asana/tree/master/config"
 	"https://github.com/ajmarroquin/asana/tree/master/utils"
+=======
+	"github.com/thash/asana/config"
+	"github.com/thash/asana/utils"
+>>>>>>> parent of 91b12b0 (changing codegansta to urfav, and thash to ajmarroquin)
 )
 
 type Task_t struct {

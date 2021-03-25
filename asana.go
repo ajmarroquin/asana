@@ -3,16 +3,22 @@ package main
 import (
 	"os"
 
+<<<<<<< HEAD
 	"https://github.com/urfave/cli"
 
 	"https://github.com/ajmarroquin/asana/commands"
+=======
+	"github.com/codegangsta/cli"
+
+	"github.com/thash/asana/commands"
+>>>>>>> parent of 91b12b0 (changing codegansta to urfav, and thash to ajmarroquin)
 )
 
 func main() {
 	app := cli.NewApp()
 	app.Name = "asana"
 	app.Version = "0.2.1"
-	app.Usage = "asana cui client ( https://github.com/ajmarroquin/asana )"
+	app.Usage = "asana cui client ( https://github.com/thash/asana )"
 
 	app.Commands = defs()
 	app.Run(os.Args)
