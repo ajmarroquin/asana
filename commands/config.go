@@ -6,11 +6,11 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/urfav/cli"
+	"https://github.com/urfave/cli"
 
-	"github.com/ajmarroquin/asana/api"
-	"github.com/ajmarroquin/asana/config"
-	"github.com/ajmarroquin/asana/utils"
+	"https://github.com/ajmarroquin/asana/api"
+	"https://github.com/ajmarroquin/asana/config"
+	"https://github.com/ajmarroquin/asana/utils"
 )
 
 func Config(c *cli.Context) {

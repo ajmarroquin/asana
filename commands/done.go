@@ -3,9 +3,9 @@ package commands
 import (
 	"fmt"
 
-	"github.com/urfav/cli"
+	"https://github.com/urfave/cli"
 
-	"github.com/ajmarroquin/asana/api"
+	"https://github.com/ajmarroquin/asana/api"
 )
 
 func Done(c *cli.Context) {

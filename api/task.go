@@ -10,8 +10,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/ajmarroquin/asana/config"
-	"github.com/ajmarroquin/asana/utils"
+	"https://github.com/ajmarroquin/asana/tree/master/config"
+	"https://github.com/ajmarroquin/asana/tree/master/utils"
 )
 
 type Task_t struct {

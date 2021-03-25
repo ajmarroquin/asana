@@ -8,10 +8,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/urfav/cli"
+	"https://github.com/urfave/cli"
 
-	"github.com/ajmarroquin/asana/api"
-	"github.com/ajmarroquin/asana/utils"
+	"https://github.com/ajmarroquin/asana/api"
+	"https://github.com/ajmarroquin/asana/utils"
 )
 
 func Comment(c *cli.Context) {

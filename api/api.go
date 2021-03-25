@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/ajmarroquin/asana/config"
-	"github.com/ajmarroquin/asana/utils"
+	"https://github.com/ajmarroquin/asana/config"
+	"https://github.com/ajmarroquin/asana/utils"
 )
 
 const (

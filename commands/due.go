@@ -5,9 +5,9 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/urfav/cli"
+	"https://github.com/urfave/cli"
 
-	"github.com/ajmarroquin/asana/api"
+	"https://github.com/ajmarroquin/asana/api"
 )
 
 const (

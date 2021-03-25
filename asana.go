@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/urfav/cli"
+	"https://github.com/urfave/cli"
 
-	"github.com/ajmarroquin/asana/commands"
+	"https://github.com/ajmarroquin/asana/commands"
 )
 
 func main() {

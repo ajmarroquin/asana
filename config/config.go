@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/ajmarroquin/asana/utils"
+	"https://github.com/ajmarroquin/asana/utils"
 
 	"fmt"
 	"io/ioutil"

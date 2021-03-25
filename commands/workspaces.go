@@ -3,8 +3,8 @@ package commands
 import (
 	"fmt"
 
-	"github.com/ajmarroquin/asana/api"
-	"github.com/urfav/cli"
+	"https://github.com/ajmarroquin/asana/api"
+	"https://github.com/urfave/cli"
 )
 
 func Workspaces(c *cli.Context) {

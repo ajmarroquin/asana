@@ -8,10 +8,10 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/urfav/cli"
+	"https://github.com/urfave/cli"
 
-	"github.com/ajmarroquin/asana/api"
-	"github.com/ajmarroquin/asana/utils"
+	"https://github.com/ajmarroquin/asana/api"
+	"https://github.com/ajmarroquin/asana/utils"
 )
 
 const (
