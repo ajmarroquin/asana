@@ -3,15 +3,9 @@ package main
 import (
 	"os"
 
-<<<<<<< HEAD
-	"https://github.com/urfavee/cli"
+	"https://github.com/urfave/cli"
 
 	"https://github.com/ajmarroquin/asana/commands"
-=======
-	"github.com/codegangsta/cli"
-
-	"github.com/thash/asana/commands"
->>>>>>> parent of 91b12b0 (changing codegansta to urfave, and thash to ajmarroquin)
 )
 
 func main() {

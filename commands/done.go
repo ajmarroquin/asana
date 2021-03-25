@@ -3,15 +3,9 @@ package commands
 import (
 	"fmt"
 
-<<<<<<< HEAD
-	"https://github.com/urfavee/cli"
+	"https://github.com/urfave/cli"
 
 	"https://github.com/ajmarroquin/asana/api"
-=======
-	"github.com/codegangsta/cli"
-
-	"github.com/thash/asana/api"
->>>>>>> parent of 91b12b0 (changing codegansta to urfave, and thash to ajmarroquin)
 )
 
 func Done(c *cli.Context) {

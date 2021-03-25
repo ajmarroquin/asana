@@ -8,17 +8,10 @@ import (
 	"regexp"
 	"strconv"
 
-<<<<<<< HEAD
-	"https://github.com/urfavee/cli"
+	"https://github.com/urfave/cli"
 
 	"https://github.com/ajmarroquin/asana/api"
 	"https://github.com/ajmarroquin/asana/utils"
-=======
-	"github.com/codegangsta/cli"
-
-	"github.com/thash/asana/api"
-	"github.com/thash/asana/utils"
->>>>>>> parent of 91b12b0 (changing codegansta to urfave, and thash to ajmarroquin)
 )
 
 const (
