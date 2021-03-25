@@ -6,13 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-<<<<<<< HEAD
 	"https://github.com/ajmarroquin/asana/config"
 	"https://github.com/ajmarroquin/asana/utils"
-=======
-	"github.com/thash/asana/config"
-	"github.com/thash/asana/utils"
->>>>>>> parent of 91b12b0 (changing codegansta to urfav, and thash to ajmarroquin)
 )
 
 const (

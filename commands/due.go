@@ -6,14 +6,14 @@ import (
 	"time"
 
 <<<<<<< HEAD
-	"https://github.com/urfave/cli"
+	"https://github.com/urfavee/cli"
 
 	"https://github.com/ajmarroquin/asana/api"
 =======
 	"github.com/codegangsta/cli"
 
 	"github.com/thash/asana/api"
->>>>>>> parent of 91b12b0 (changing codegansta to urfav, and thash to ajmarroquin)
+>>>>>>> parent of 91b12b0 (changing codegansta to urfave, and thash to ajmarroquin)
 )
 
 const (
