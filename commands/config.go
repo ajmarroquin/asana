@@ -6,11 +6,11 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfav/cli"
 
-	"github.com/thash/asana/api"
-	"github.com/thash/asana/config"
-	"github.com/thash/asana/utils"
+	"github.com/ajmarroquin/asana/api"
+	"github.com/ajmarroquin/asana/config"
+	"github.com/ajmarroquin/asana/utils"
 )
 
 func Config(c *cli.Context) {

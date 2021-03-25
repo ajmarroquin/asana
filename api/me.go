@@ -3,7 +3,7 @@ package api
 import (
 	"encoding/json"
 
-	"github.com/thash/asana/utils"
+	"github.com/ajmarroquin/asana/utils"
 )
 
 type Me_t struct {

@@ -3,9 +3,9 @@ package commands
 import (
 	"fmt"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfav/cli"
 
-	"github.com/thash/asana/api"
+	"github.com/ajmarroquin/asana/api"
 )
 
 func Task(c *cli.Context) {
